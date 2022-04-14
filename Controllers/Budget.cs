@@ -18,6 +18,12 @@ namespace server.Controllers
         {
             return db.GetAll();
         }
+        
+        [HttpGet("get_last_item/{id}")]
+        public IActionResult GetLastItemByUser(int id)
+        {
+            return Ok(db.GetLastItem(id));
+        }
 
         [HttpGet("get_user_items/{id}")]
         public IEnumerable<BudgetData> GetUserItem(int id)

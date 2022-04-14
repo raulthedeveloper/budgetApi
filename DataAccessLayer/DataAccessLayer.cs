@@ -68,12 +68,54 @@ namespace server.DataAccessLayer
 
         }
 
+        public BudgetData GetLastItem(int id)
+        {
+            try
+            {
+                
+                
+                MySqlCommand cm =
+                    new MySqlCommand($"SELECT  * FROM {tableName} WHERE userId = {id} ORDER BY id DESC LIMIT 1",conn);
+
+                conn.Open();
+                
+                cm.ExecuteNonQuery();
+
+                MySqlDataReader reader = cm.ExecuteReader();
+
+                BudgetData item = new BudgetData();
+
+                while (reader.Read())
+                {
+                    item.Id = (int) reader["id"];
+                    item.UserId = (int) reader["userId"];
+                    item.Amount = (int) reader["amount"];
+                    item.Description = (string) reader["description"];
+                    item.Type = (string) reader["type"];
+                    item.DateCreated = (DateTime) reader["date_created"];
+                }
+
+                return item;
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
         public List<BudgetData> GetAllByUser(int id)
         {
             try
             {
                 MySqlCommand sqlCommand = new MySqlCommand($"SELECT * FROM {tableName} WHERE userId = '{id}'",conn);
                 conn.Open();
+                
 
                 MySqlDataReader reader = sqlCommand.ExecuteReader();
 
@@ -107,7 +149,7 @@ namespace server.DataAccessLayer
         {
             try
             {
-                MySqlCommand cm = new MySqlCommand($"SELECT id,userId,description, amount, type FROM {tableName}", conn);
+                MySqlCommand cm = new MySqlCommand($"SELECT id,userId,description, amount,date_created, type FROM {tableName}", conn);
                 conn.Open();
 
                 cm.ExecuteNonQuery();
@@ -120,6 +162,7 @@ namespace server.DataAccessLayer
                 {
                     BudgetData budgetData = new BudgetData();
                     budgetData.Id = (int)sqlDataReader["id"];
+                    budgetData.DateCreated = (DateTime) sqlDataReader["date_created"];
                     budgetData.UserId = (int)sqlDataReader["userId"];
                     budgetData.Description = (string)sqlDataReader["description"];
                     budgetData.Amount = (int)sqlDataReader["amount"];
