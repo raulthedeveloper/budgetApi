@@ -1,0 +1,125 @@
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/appsettings.json
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/server.exe
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/server.deps.json
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/server.runtimeconfig.json
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/server.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/server.pdb
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.AssemblyInfo.cs
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/scopedcss/bundle/server.styles.css
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.csproj.CopyComplete
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.dll
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/refint/server.dll
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.pdb
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/server.genruntimeconfig.cache
+C:/Users/raul_/Desktop/Projects/budget/server/obj/Debug/net6.0/ref/server.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/raul_/Desktop/Projects/budget/server/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/appsettings.Development.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/appsettings.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/server
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/server.deps.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/server.runtimeconfig.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/server.pdb
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.AssemblyInfo.cs
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cs
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/staticwebassets.build.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/staticwebassets.development.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/scopedcss/bundle/server.styles.css
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.csproj.CopyComplete
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/refint/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.pdb
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/server.genruntimeconfig.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/obj/Debug/net6.0/ref/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/server/bin/Debug/net6.0/MySqlConnector.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/appsettings.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/server
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/server.deps.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/server.runtimeconfig.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/server.pdb
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/MySqlConnector.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.AssemblyInfo.cs
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cs
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.MvcApplicationPartsAssemblyInfo.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/scopedcss/bundle/server.styles.css
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.csproj.CopyComplete
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/refint/server.dll
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.pdb
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/server.genruntimeconfig.cache
+/Users/raulrodriguez/Desktop/Web Projects/budget/BudgetApi/obj/Debug/net6.0/ref/server.dll
